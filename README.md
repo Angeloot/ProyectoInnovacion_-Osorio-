@@ -1,2 +1,1 @@
-# ProyectoInnovacion_-Osorio-
-Proyecto Innovación
+Carpeta legal del proyecto
